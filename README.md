@@ -3,7 +3,7 @@
 
 </div>
 
-<h1 align="center">Hi 👋, I'm Tooni Olaniyan</h1>
+<h1 align="center">Hi, I'm Tooni Olaniyan</h1>
 <h3 align="center">A passionate self-taught frontend developer from Nigeria</h3>
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-one-smoky.vercel.app/](https://my-portfolio-one-smoky.vercel.app/)
