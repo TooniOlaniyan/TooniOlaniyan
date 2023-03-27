@@ -6,9 +6,8 @@
 <h1 align="center">Hi, I'm Tooni Olaniyan</h1>
 <h3 align="center">A passionate self-taught frontend developer from Nigeria</h3>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-one-smoky.vercel.app/](https://my-portfolio-one-smoky.vercel.app/)
 
-- 📫 How to reach me **asalamlatif@gmail.com**
+- 📫 How to reach me **toonilaniyan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
